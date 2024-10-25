@@ -4,8 +4,13 @@ The application is powered by streamlit. It takes a video that have an audio whi
 ## Installation
 pip install streamlit
 
+## APIs
+1. Google cloud speech to text
+2. Google cloud text to speech
+3. Any GenAI service(eg. gpt)
+
 ## Credentials
-1. google cloud speech service account file
+1. Google cloud speech service account file
 2. Any openAI api key provider
 
 ## Run
