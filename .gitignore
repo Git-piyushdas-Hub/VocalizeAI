@@ -1,0 +1,22 @@
+# created by virtualenv automatically
+
+# credentials
+.env
+video-audio-ai-*.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+.venv/
+pyenv.cfg
+
+# Pytest cache
+.pytest_cache/
+
+# Other cache files
+.cache/
+.DS_Store
